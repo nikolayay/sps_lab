@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+pillow = "*"
+scikit-image = "*"
+matplotlib = "*"
+numpy = "*"
+scipy = "*"
+pygments = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
